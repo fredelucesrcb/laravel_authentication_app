@@ -5,9 +5,9 @@ A Simple Laravel App with authentication and listing of resources from an extern
 ## Prerequisites
 
 1. Composer - https://getcomposer.org/
-
 2. PHP >= 7 
 3. MySQL
+4. Apache2 server
 
 ## How to run
 
